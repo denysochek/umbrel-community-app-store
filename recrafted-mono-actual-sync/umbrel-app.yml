@@ -24,6 +24,7 @@ website: "https://github.com/denysochek/mono-actual-sync-actual"
 dependencies: []
 repo: "https://github.com/denysochek/mono-actual-sync-actual"
 support: "https://github.com/denysochek/mono-actual-sync-actual/issues"
+icon: "https://raw.githubusercontent.com/denysochek/umbrel-community-app-store/main/recrafted-mono-actual-sync/icon.svg"
 gallery: []
 path: ""
 defaultPassword: ""
