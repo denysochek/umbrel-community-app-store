@@ -3,13 +3,13 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: denysochek-mono-actual-sync_server_1
+      APP_HOST: recrafted-mono-actual-sync_server_1
       APP_PORT: 9191
       PROXY_AUTH_ADD: "false"
 
   server:
     image: ghcr.io/denysochek/mono-actual-sync-actual:latest
-    container_name: denysochek-mono-actual-sync_server_1
+    container_name: recrafted-mono-actual-sync_server_1
     restart: on-failure
     environment:
       PORT: "9191"

@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: "denysochek-mono-actual-sync"
+id: "recrafted-mono-actual-sync"
 name: "Mono Actual Sync"
 tagline: "Sync transactions from Monobank into Actual Budget"
 category: "finance"
@@ -16,7 +16,7 @@ description: >-
   - Multi-card mapping (supports personal cards, cashback, jars, and FOP accounts)
   - Full support for the latest Actual Budget (26.x)
   - Bilingual UI with Ukrainian (Українська) and English language support
-developer: "denysochek"
+developer: "reCrafted AI / denysochek"
 website: "https://github.com/denysochek/mono-actual-sync-actual"
 dependencies: []
 repo: "https://github.com/denysochek/mono-actual-sync-actual"
